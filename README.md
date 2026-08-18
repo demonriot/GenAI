@@ -1,0 +1,2 @@
+# GenAI
+IISc GenAI course
